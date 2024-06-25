@@ -77,10 +77,6 @@ Here are the top 10 words for each of the 4 topics discovered in a sample run, a
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
-For questions or feedback, please contact [your email].
+For questions or feedback, please contact rlozano@scu.edu.
